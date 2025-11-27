@@ -9,5 +9,8 @@
 ![软件运行截图](./ceshi.png)
 
 
-Update v1.1版，支持png，jpg等常见图片，
+Update v1.1
+
+支持png，jpg等常见图片，并且付费模型也能使用
+
 
